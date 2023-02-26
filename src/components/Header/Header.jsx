@@ -27,7 +27,7 @@ const Header = () => {
       style={{boxShadow: headerShadow}}
     >
       <div className={`innerWidth ${css.container} flexCenter`}>
-        <div className={css.name}>tesla369</div>
+        <div className={css.name}></div>
         <ul
           className={`flexCenter ${css.menu}`}
           ref={menuRef}
@@ -37,8 +37,9 @@ const Header = () => {
           <li><a href="#work">Experience</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
           <li><a href="#people">Testimonials</a></li>
+          <li> <a  target={'blank'} href="https://drive.google.com/file/d/1A17SBpKI0cVdo8EZIjhbX0PwrZ7DJxNt/view?usp=sharing" > Download cv</a></li>
           <li className={`flexCenter ${css.phone}`}>
-            <p>+923144684607</p>
+            <p>+923456939029</p>
             <BiPhoneCall size={"40px"} />
           </li>
         </ul>
