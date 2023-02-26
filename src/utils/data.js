@@ -15,7 +15,7 @@ export const projectExperience = [
     bg: "#EEC048",
   },
   {
-    name: "Brand Identity",
+    name: "Digital marketing",
     projects: 47,
     icon: MdWorkspacesOutline,
     bg: "#F26440",
@@ -26,28 +26,29 @@ export const WhatDoIHelp = [
   "I will help you with finging a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
   "We use process design to create digital products. Besides that also help their business",
 ];
-
+  
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "Web developer intern at @Sayabidevs ",
+    tenure: "january 2023 - continue",
+    role: "Web developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "A lorem ipsum generator is ideal for a web developer looking for a dummy tool with advanced features. It is available in different languages like English, Spanish, Chinese, German, and Ukrainian.",
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
+    place: "Freelance as front-end developer",
+    tenure: "Aug 2018 -",
     role: "UI/UX Designer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+       
+      " A lorem ipsum generator is ideal for a web developer looking for a dummy tool with advanced features. It is available in different languages like English, Spanish, Chinese, German, and Ukrainian.",
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
+    place: "Director designer",
+    tenure: "Aug 2020 - Sep 2021",
+    role: "Designer-Mehran UET",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "A lorem ipsum generator is ideal for a web developer looking for a dummy tool with advanced features. It is available in different languages like English, Spanish, Chinese, German, and Ukrainian.",
   },
 ];
 
@@ -56,7 +57,7 @@ export const comments = [
     name: "Anamika Sandula",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "A lorem ipsum generator is ideal for a web developer looking for a dummy tool with advanced features. It is available in different languages like English, Spanish, Chinese, German, and Ukrainian.",
     img: "./people2.png",
   },
   {
